@@ -215,6 +215,9 @@
     <SUITE FILE_PATH="coverage/Skystone_Tutorial_Finished$ComputerDebugger.ic" NAME="ComputerDebugger Coverage Results" MODIFIED="1588186049284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.firstinspires.ftc.teamcode.debugging.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/SkyStone_Tutorial$ComputerDebugger.ic" NAME="ComputerDebugger Coverage Results" MODIFIED="1588187886071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.firstinspires.ftc.teamcode.debugging.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Skystone_Tutorial$ComputerDebugger.ic" NAME="ComputerDebugger Coverage Results" MODIFIED="1588187181803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.firstinspires.ftc.teamcode.debugging.*</FILTER>
     </SUITE>
